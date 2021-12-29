@@ -1,6 +1,6 @@
 from sys import argv
 from os.path import exists
-# type:" python3 ex17.py test.txt new_file.txt"
+# type:"python3 ex17.py test.txt new_file.txt"
 script, from_file, to_file = argv
 
 print(f"copy from {from_file} to {to_file}.")
