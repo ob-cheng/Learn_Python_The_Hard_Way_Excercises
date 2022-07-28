@@ -1,3 +1,2 @@
 # Learn_Python_The_Hard_Way
-just for fun
-This folder is a fraction of my own studying of python since SGH isn't doing much basic knowledge teaching. 
+This repository is for personal python practice scripts, along with the book Learn Python the Hard Way. 
